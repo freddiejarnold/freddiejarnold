@@ -2,7 +2,7 @@
 
 Equity Research & Data Science | London
 
-I build quantitative tools for index rebalancing, event-driven signals,
+I build quantitative tools for portfolio management, company analysis
 and alternative data analysis.
 
 **Skills**: Python · Pandas · NumPy · yfinance · SEC EDGAR API · NLP  
